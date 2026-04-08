@@ -1,24 +1,24 @@
-# 🏠 Real Estate Price Analysis Dashboard
+#  Real Estate Price Analysis Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents an interactive **Power BI dashboard** for analyzing real estate data.
 It provides insights into price trends, location comparisons, and property segmentation.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* 📈 Price Trend Analysis
-* 📍 Location-wise Price Comparison
-* 🏘️ Property Segmentation
-* 🔥 Demand Heatmap
-* 🥧 Property Type Distribution
-* 📌 KPI Cards (Average Price, Total Demand, etc.)
+*  Price Trend Analysis
+*  Location-wise Price Comparison
+*  Property Segmentation
+*  Demand Heatmap
+*  Property Type Distribution
+*  KPI Cards (Average Price, Total Demand)
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Power BI
 * Data Cleaning & Transformation
@@ -26,7 +26,7 @@ It provides insights into price trends, location comparisons, and property segme
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains:
 
@@ -38,13 +38,13 @@ The dataset contains:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![alt text](image-1.png)
 
 ---
 
-## 🎯 Insights
+##  Insights
 
 * Major cities like Delhi & Bangalore have higher property prices
 * Most properties fall under specific segments (Low/Medium)
@@ -56,6 +56,6 @@ The dataset contains:
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This dashboard helps in understanding real estate market trends and supports data-driven decision-making.
